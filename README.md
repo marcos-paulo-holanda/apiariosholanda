@@ -1,4 +1,4 @@
-I developed this webpage for my cousin who is honey producer.
+I developed this webpage for a honey producer.
 You can acess it on https://marcos-paulo-holanda.github.io/apiariosholanda
 
 
